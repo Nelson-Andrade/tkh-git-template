@@ -1,0 +1,3 @@
+Here is some filler text
+
+Inside my txt file to test commit messages
