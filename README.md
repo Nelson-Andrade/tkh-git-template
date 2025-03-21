@@ -1,38 +1,35 @@
-# H1 tkh-git-template
+# tkh-git-template
 
-> A short description about the project and/or client.
+> This repo verifies a user's eligibility based on the age they input.
 
-## H2 Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### H3 Prerequisites
+### Prerequisites
 
 The things you need before installing the software.
 
-- You need this
-- And you need this
-- Oh, and don't forget this
+- Install git
+- Download IDE
 
-### H3 Installation
+### Installation
 
 A step by step guide that will tell you how to get the development environment up and running.
 
-1. First step
-2. Another step
-3. Final step
+1. Clone repo
+2. Open repo in preferred IDE
+3. In terminal, run 'node welcome.js'
 
-## H2 Usage
+## Usage
 
 A few examples of useful commands and/or tasks.
 
-- First example
-- Second example
-- And keep this in mind
+- Name verification
+- Determining eligibility based on age.
 
-### H3 Branches
+### Branches
 
-* Main:
-* Feature:
-* Bugfix:
-* etc...
+* Main: main
+* Feature: convention for new features is 'feature-(id)'
+* Bugfix: convention for bugfix is 'bugfix-(id)'
